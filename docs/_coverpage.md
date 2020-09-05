@@ -14,7 +14,7 @@
     | 🧑总访客数: <span id="busuanzi_value_site_uv"></span>
 </span>
 
-[GitHub](https://github.com/lingcoder/onJava8/)
+[GitHub](https://github.com/ChangNingbo/ChangNingbo.github.io)
 [Get Started](sidebar.md)
 
 
